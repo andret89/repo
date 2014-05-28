@@ -4,7 +4,7 @@ Dillinger
 Dillinger is a cloud-enabled HTML5 Markdown editor.
 
   - Type some Markdown text in the left window
-  - See the HTML in the right
+  - See the HTML in the rightdf
   - Magic
 
 Markdown is a lightweight markup language based on the formatting conventions that people naturally use in email.  As [John Gruber] writes on the [Markdown site] [1]:
