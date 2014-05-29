@@ -1,0 +1,90 @@
+info_begin
+format: 1
+mpd_version: 0.16.5
+fs_charset: UTF-8
+tag: Artist
+tag: ArtistSort
+tag: Album
+tag: AlbumArtist
+tag: AlbumArtistSort
+tag: Title
+tag: Track
+tag: Name
+tag: Genre
+tag: Date
+tag: Composer
+tag: Performer
+tag: Disc
+tag: MUSICBRAINZ_ARTISTID
+tag: MUSICBRAINZ_ALBUMID
+tag: MUSICBRAINZ_ALBUMARTISTID
+tag: MUSICBRAINZ_TRACKID
+info_end
+directory: Reg
+mtime: 1398800321
+begin: Reg
+song_begin: 1) 13.02.14 - Modelli e problemi.WMA
+Time: 5785
+mtime: 1104547592
+song_end
+song_begin: 2) 19.02.14 - Grafi e reti di flusso.WMA
+Time: 5297
+mtime: 1104552860
+song_end
+song_begin: 3) 24.02.14 - Visita grafi.WMA
+Time: 6370
+mtime: 1104592478
+song_end
+song_begin: 4) 5.02.14 - Problema SPT.WMA
+Time: 5759
+mtime: 1393674929
+song_end
+song_begin: 8) 17.03.14 Problema di flusso minimo.WMA
+Time: 5959
+mtime: 1104547764
+song_end
+song_begin: WS_30006.WMA
+Time: 5435
+mtime: 1104643826
+song_end
+song_begin: WS_30007.WMA
+Time: 5612
+mtime: 1104649588
+song_end
+song_begin: WS_30008.WMA
+Time: 5984
+mtime: 1394990366
+song_end
+song_begin: WS_30010.WMA
+Time: 5532
+mtime: 1104553272
+song_end
+song_begin: WS_30011.WMA
+Time: 4801
+mtime: 1104562026
+song_end
+song_begin: WS_30012.WMA
+Time: 661
+mtime: 1104550332
+song_end
+song_begin: WS_30013.WMA
+Time: 5528
+mtime: 1104561178
+song_end
+song_begin: WS_30014.WMA
+Time: 5171
+mtime: 1105000116
+song_end
+song_begin: WS_30015.WMA
+Time: 5001
+mtime: 1105165528
+song_end
+song_begin: WS_30016.WMA
+Time: 6104
+mtime: 1105171684
+song_end
+end: Reg
+song_begin: passed.mp3
+Time: 77
+mtime: 1369345088
+song_end

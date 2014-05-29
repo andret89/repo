@@ -1,0 +1,96 @@
+!BLACK
+*color0:  #1A1A1A
+*color8:  #404040
+
+!RED
+*color1:  #9f6767
+*color9:  #9f6767
+
+!GREEN
+*color2:  #92ac68
+*color10: #92ac68
+
+!YELLOW
+*color3:  #d0d293
+*color11: #d0d293
+
+!BLUE
+*color4:  #9aacc3
+*color12: #9aacc3
+
+!MAGENTA
+*color5:  #bb77a4
+*color13: #bb77a4
+
+!CYAN
+*color6:  #77bbb5
+*color14: #77bbb5
+
+!WHITE
+*color7:  #BBBBBB
+*color15: #BBBBBB
+
+!-- TRUE TRANSPARENCY -- !
+!urxvt*depth: 32
+!urxvt*background: rgba:0000/0000/0200/c800
+
+!-- URxvt SETTINGS -- !
+URxvt*title: Console
+URxvt*termName: rxvt-unicode-256color
+URxvt*geometry: 80x25
+URxvt*fading: 10
+urxvt*shading: 10
+urxvt*loginShell: true
+
+!-- URxvt INTERFACE -- !
+urxvt*background:  0
+urxvt*foreground:  7
+
+!-- Xft SETTINGS -- !
+Xft.dpi:        96
+Xft.antialias:  false
+Xft.rgba:       rgb
+Xft.hinting:    true
+Xft.hintstyle:  hintfull
+
+! -- FONTS -- !
+URxvt*font: xft:terminus:size=8
+URxvt*boldFont: xft:terminus:size=8
+URxvt*italicFont: xft:terminus:size=8
+URxvt*boldItalicFont: xft:terminus:size=8
+
+!-- FONT COLOUR: BOLD/ITALIC -- !
+URxvt.colorBD:    7
+URxvt.colorIT:    7
+
+! -- SCROLLBAR -- !
+URxvt*scrollBar: false
+URxvt*scrollBar_right: true
+URxvt*scrollColor: 7
+URxvt*scrollstyle: urxvt
+URxvt*saveLines: 1000
+
+! -- SCROLL -- ! Need: urxvt-vtwheel
+URxvt.perl-ext-common: default,matcher,tabbed,vtwheel,clipboard
+URxvt*url-launcher: /usr/bin/qupzilla
+URxvt*matcher.button: 1
+
+! -- CURSOR -- ! 
+urxvt*cursorColor: 7
+urxvt*cursorBlink: true
+urxvt*urgentOnBell: true
+urxvt*cursorUnderline: true
+
+! -- URL -- ! 
+URxvt.colorUL: 4
+
+! -- TAB -- !
+URxvt.tabbed.tabbar-fg: 7
+URxvt.tabbed.tabbar-bg: 0
+URxvt.tabbed.tab-fg: 7
+URxvt.tabbed.tab-bg: 0
+
+! -- COPY & PASTE -- !
+URxvt.keysym.Control-Shift-C:   perl:clipboard:copy
+URxvt.keysym.Control-Shift-V:   perl:clipboard:paste
+URxvt.iso14755: False

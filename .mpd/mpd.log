@@ -1,0 +1,119 @@
+May 29 17:47 : state_file: failed to open /home/eos/.mpd/state: No such file or directory
+May 29 17:47 : update: added /passed.mp3
+May 29 17:47 : update: added Reg/2) 19.02.14 - Grafi e reti di flusso.WMA
+May 29 17:47 : update: added Reg/WS_30016.WMA
+May 29 17:47 : update: added Reg/4) 5.02.14 - Problema SPT.WMA
+May 29 17:47 : update: added Reg/WS_30011.WMA
+May 29 17:47 : update: added Reg/WS_30008.WMA
+May 29 17:47 : update: added Reg/WS_30014.WMA
+May 29 17:47 : update: added Reg/WS_30006.WMA
+May 29 17:47 : update: added Reg/WS_30013.WMA
+May 29 17:47 : update: added Reg/3) 24.02.14 - Visita grafi.WMA
+May 29 17:47 : update: added Reg/WS_30015.WMA
+May 29 17:47 : update: added Reg/WS_30010.WMA
+May 29 17:47 : update: added Reg/1) 13.02.14 - Modelli e problemi.WMA
+May 29 17:47 : avahi: Service 'Music Player' successfully established.
+May 29 17:47 : update: added Reg/WS_30012.WMA
+May 29 17:47 : update: added Reg/8) 17.03.14 Problema di flusso minimo.WMA
+May 29 17:47 : update: added Reg/WS_30007.WMA
+May 29 18:06 : update: added /passed.mp3
+May 29 18:06 : update: added Reg/2) 19.02.14 - Grafi e reti di flusso.WMA
+May 29 18:06 : update: added Reg/WS_30016.WMA
+May 29 18:06 : update: added Reg/4) 5.02.14 - Problema SPT.WMA
+May 29 18:06 : update: added Reg/WS_30011.WMA
+May 29 18:06 : update: added Reg/WS_30008.WMA
+May 29 18:06 : update: added Reg/WS_30014.WMA
+May 29 18:06 : update: added Reg/WS_30006.WMA
+May 29 18:06 : update: added Reg/WS_30013.WMA
+May 29 18:06 : update: added Reg/3) 24.02.14 - Visita grafi.WMA
+May 29 18:06 : update: added Reg/WS_30015.WMA
+May 29 18:06 : update: added Reg/WS_30010.WMA
+May 29 18:06 : update: added Reg/1) 13.02.14 - Modelli e problemi.WMA
+May 29 18:06 : update: added Reg/WS_30012.WMA
+May 29 18:06 : update: added Reg/8) 17.03.14 Problema di flusso minimo.WMA
+May 29 18:06 : update: added Reg/WS_30007.WMA
+May 29 18:06 : avahi: Service 'Music Player' successfully established.
+May 29 18:10 : avahi: Service 'Music Player' successfully established.
+May 29 18:10 : avahi: Service 'Music Player' successfully established.
+May 29 18:11 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 29 18:11 : Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 29 18:11 : output: "My Pulse Output" [pulse] failed to play: suspended
+May 29 18:11 : output: "My Pulse Output" [pulse] failed to play: suspended
+May 29 18:11 : output: "My Pulse Output" [pulse] failed to play: suspended
+May 29 18:11 : output: "My Pulse Output" [pulse] failed to play: suspended
+May 29 18:11 : output: "My Pulse Output" [pulse] failed to play: suspended
+May 29 18:12 : output: "My Pulse Output" [pulse] failed to play: suspended
+May 29 18:12 : output: "My Pulse Output" [pulse] failed to play: suspended
+May 29 18:12 : output: "My Pulse Output" [pulse] failed to play: suspended
+May 29 18:12 : output: "My Pulse Output" [pulse] failed to play: suspended
+May 29 18:12 : output: "My Pulse Output" [pulse] failed to play: suspended
+May 29 18:12 : output: "My Pulse Output" [pulse] failed to play: suspended
+May 29 18:12 : mixer: Failed to set mixer for 'My Pulse Output': disconnected
+May 29 18:12 : mixer: Failed to set mixer for 'My Pulse Output': disconnected
+May 29 18:12 : mixer: Failed to set mixer for 'My Pulse Output': disconnected
+May 29 18:12 : mixer: Failed to set mixer for 'My Pulse Output': disconnected
+May 29 18:12 : mixer: Failed to set mixer for 'My Pulse Output': disconnected
+May 29 18:12 : mixer: Failed to set mixer for 'My Pulse Output': disconnected
+May 29 18:12 : mixer: Failed to set mixer for 'My Pulse Output': disconnected
+May 29 18:12 : mixer: Failed to set mixer for 'My Pulse Output': disconnected
+May 29 18:12 : mixer: Failed to set mixer for 'My Pulse Output': disconnected
+May 29 18:12 : mixer: Failed to set mixer for 'My Pulse Output': disconnected
+May 29 18:12 : mixer: Failed to set mixer for 'My Pulse Output': disconnected
+May 29 18:12 : mixer: Failed to set mixer for 'My Pulse Output': disconnected
+May 29 18:12 : mixer: Failed to set mixer for 'My Pulse Output': disconnected
+May 29 18:12 : mixer: Failed to set mixer for 'My Pulse Output': disconnected
+May 29 18:12 : mixer: Failed to set mixer for 'My Pulse Output': disconnected
+May 29 18:12 : mixer: Failed to set mixer for 'My Pulse Output': disconnected
+May 29 18:12 : mixer: Failed to set mixer for 'My Pulse Output': disconnected
+May 29 18:12 : mixer: Failed to set mixer for 'My Pulse Output': disconnected
+May 29 18:12 : mixer: Failed to set mixer for 'My Pulse Output': disconnected
+May 29 18:12 : mixer: Failed to set mixer for 'My Pulse Output': disconnected
+May 29 18:12 : mixer: Failed to set mixer for 'My Pulse Output': disconnected
+May 29 18:12 : mixer: Failed to set mixer for 'My Pulse Output': disconnected
+May 29 18:12 : mixer: Failed to set mixer for 'My Pulse Output': disconnected
+May 29 18:12 : mixer: Failed to set mixer for 'My Pulse Output': disconnected
+May 29 18:12 : mixer: Failed to set mixer for 'My Pulse Output': disconnected
+May 29 18:12 : mixer: Failed to set mixer for 'My Pulse Output': disconnected
+May 29 18:12 : mixer: Failed to set mixer for 'My Pulse Output': disconnected
+May 29 18:12 : output: "My Pulse Output" [pulse] failed to play: suspended
+May 29 18:12 : output: "My Pulse Output" [pulse] failed to play: suspended
+May 29 18:12 : output: "My Pulse Output" [pulse] failed to play: suspended
+May 29 18:13 : output: "My Pulse Output" [pulse] failed to play: suspended
+May 29 18:13 : output: "My Pulse Output" [pulse] failed to play: suspended
+May 29 18:13 : output: "My Pulse Output" [pulse] failed to play: suspended
+May 29 18:23 : inotify: Failed to stat /home/eos/Musica/Musica: No such file or directory
+May 29 18:23 : avahi: Service 'Music Player' successfully established.
+May 29 18:23 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 29 18:23 : Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 29 18:23 : output: "My Pulse Output" [pulse] failed to play: suspended
+May 29 18:23 : output: "My Pulse Output" [pulse] failed to play: suspended
+May 29 18:23 : output: "My Pulse Output" [pulse] failed to play: suspended
+May 29 18:24 : output: "My Pulse Output" [pulse] failed to play: suspended
+May 29 18:24 : output: "My Pulse Output" [pulse] failed to play: suspended
+May 29 18:24 : output: "My Pulse Output" [pulse] failed to play: suspended
+May 29 18:24 : output: "My Pulse Output" [pulse] failed to play: suspended
+May 29 18:24 : output: "My Pulse Output" [pulse] failed to play: suspended
+May 29 18:24 : mixer: Failed to set mixer for 'My Pulse Output': disconnected
+May 29 18:24 : output: "My Pulse Output" [pulse] failed to play: suspended
+May 29 18:24 : mixer: Failed to set mixer for 'My Pulse Output': disconnected
+May 29 18:24 : mixer: Failed to set mixer for 'My Pulse Output': disconnected
+May 29 18:24 : output: "My Pulse Output" [pulse] failed to play: suspended
+May 29 18:25 : output: "My Pulse Output" [pulse] failed to play: suspended
+May 29 18:25 : output: "My Pulse Output" [pulse] failed to play: suspended
+May 29 18:33 : Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 29 18:33 : output: "My Pulse Output" [pulse] failed to play: suspended
+May 29 18:33 : output: "My Pulse Output" [pulse] failed to play: suspended
+May 29 18:33 : avahi: Service 'Music Player' successfully established.
+May 29 18:33 : mixer: Failed to set mixer for 'My Pulse Output': disconnected
+May 29 18:33 : mixer: Failed to set mixer for 'My Pulse Output': disconnected
+May 29 18:33 : output: "My Pulse Output" [pulse] failed to play: suspended
+May 29 18:33 : output: "My Pulse Output" [pulse] failed to play: suspended
+May 29 18:33 : Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 29 18:33 : output: "My Pulse Output" [pulse] failed to play: suspended
+May 29 18:33 : Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 29 18:33 : output: "My Pulse Output" [pulse] failed to play: suspended
+May 29 18:33 : output: "My Pulse Output" [pulse] failed to play: suspended
+May 29 18:33 : output: "My Pulse Output" [pulse] failed to play: suspended
+May 29 18:33 : output: "My Pulse Output" [pulse] failed to play: suspended
+May 29 18:34 : output: "My Pulse Output" [pulse] failed to play: suspended
+May 29 18:34 : output: "My Pulse Output" [pulse] failed to play: suspended
